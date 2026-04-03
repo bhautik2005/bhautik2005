@@ -10,7 +10,7 @@
 * 🎓 Engineering Student (GTU - Semester 6)
 * 🤖 Passionate about **AI, Machine Learning, NLP & Backend Systems**
 * 🛠️ Skilled in building **end-to-end ML applications + REST APIs**
-* 🌱 Currently exploring **Deep Learning, LLMs & Production AI Systems**
+* 🌱 Currently exploring **Deep Learning, LLMs & Production AI Systems ,Gen AI**
 
 ---
 
