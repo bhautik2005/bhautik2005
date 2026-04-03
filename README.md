@@ -79,12 +79,13 @@
 
 ---
 ## 📊 GitHub Stats
+ 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bhautik2005&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bhautik2005&show_icons=true&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com?user=bhautik2005&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhautik2005&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bhautik2005&layout=compact&theme=tokyonight)
 
 ---
 ## 📫 Connect With Me
