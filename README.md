@@ -3,6 +3,7 @@
 🚀 AI/ML Engineer | Data Science Enthusiast | Backend Developer
 💡 Building intelligent systems, scalable APIs, and real-world applications
 
+🔗PORTFOLIO[]("https://bhautik2005.pages.dev/")
 ---
 
 ## 🧠 About Me
@@ -39,7 +40,7 @@
 
 ### ❤️ Heart Disease Prediction
 
-🔗 [Live App](http://heart-react-app.s3-website.ap-south-1.amazonaws.com)
+ 
 🔗 [GitHub](https://github.com/bhautik2005/heart_disease_project)
 
 * ML model predicting heart disease using clinical data
@@ -60,7 +61,7 @@
 
 ### 🏠 Nest – Booking Platform
 
-🔗 [Live App](http://Nest-env.eba-xvf3vp3w.ap-south-1.elasticbeanstalk.com)
+🔗 [Live App](https://nest-d4t3.onrender.com/)
 🔗 [GitHub](https://github.com/bhautik2005/Nest)
 
 * Full-stack MERN application
