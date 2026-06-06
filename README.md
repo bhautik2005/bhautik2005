@@ -3,7 +3,7 @@
 🚀 AI/ML Engineer | Data Science Enthusiast | Backend Developer
 💡 Building intelligent systems, scalable APIs, and real-world applications
 
-🔗PORTFOLIO[]("https://bhautik2005.pages.dev/")
+🔗 [PORTFOLIO](https://bhautik2005.pages.dev/)
 ---
 
 ## 🧠 About Me
