@@ -38,6 +38,19 @@
 
 ## 🔥 Featured Projects
 
+### ⚡RetailPulse | AI-Powered E-Commerce Analytics Platform
+
+🔗 [Live App](https://retailpulse-iy7nshe4dwgfxrzfsx9jhg.streamlit.app/)
+🔗 [GitHub](https://github.com/bhautik2005/retailpulse/tree/main)
+
+* Python, Scikit-learn, ARIMA, Streamlit
+* Built an end-to-end analytics platform for e-commerce business insights
+* Developed churn prediction and demand forecasting models using Random Forest and ARIMA
+* Implemented customer segmentation (RFM analysis) and inventory optimization logic
+* Created an interactive multi-page Streamlit dashboard with KPI visualizations
+
+---
+
 ### ❤️ Heart Disease Prediction
 
  
